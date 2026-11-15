@@ -3,7 +3,7 @@ export const site = {
   tagline: 'Accept stablecoins without a payment processor.',
   repo: 'https://github.com/DjedAlliance/StablePay',
   sdkRepo: 'https://github.com/DjedAlliance/StablePay/tree/main/stablepay-sdk',
-  tectonicContracts: 'https://github.com/StabilityNexus/Tectonic-EVM-Contracts',
+  tectonicContracts: 'https://github.com/StabilityNexus/StablePay/tree/main/tectonic-local',
   tectonicApp: 'https://stabilitynexus.github.io/Tectonic-EVM-WebUI/',
   stabilityNexus: 'https://stability.nexus/',
   djedAlliance: 'https://djed.one/',
